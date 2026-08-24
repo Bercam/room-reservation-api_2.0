@@ -1,0 +1,30 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+release.properties
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+.vscode/
+
+# Compiled
+*.class
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+*.env.local
